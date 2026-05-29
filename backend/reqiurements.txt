@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+transformers
+torch
+streamlit
+requests
+opencv-python
+numpy
+librosa
+scikit-learn
+python-multipart
