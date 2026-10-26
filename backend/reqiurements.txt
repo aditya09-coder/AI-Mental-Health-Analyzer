@@ -9,4 +9,3 @@ numpy
 librosa
 scikit-learn
 python-multipart
-my name is khan 
